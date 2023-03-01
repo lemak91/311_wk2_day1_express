@@ -1,4 +1,4 @@
-exports.users = [
+export const users = [
     {
         "_id": 1,
         "name": "Dale Cooper",
